@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'testgweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C257663ACDAB4633BF7FEDB186B6D2EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBCFBE4A28C14E2DA1F9E78E872D6CDF }}
           package: .
