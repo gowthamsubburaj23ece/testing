@@ -1,5 +1,5 @@
 <?php
-$servername = "gowthams";
+$servername = "gserv.database.windows.net";
 $username = "gowthams";
 $password = "Linux@123";
 
